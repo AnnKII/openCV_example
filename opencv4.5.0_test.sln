@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv4.5.0_test", "opencv4.5.0_test.vcxproj", "{DB530753-E243-4E28-BBA3-E423DF3985BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB530753-E243-4E28-BBA3-E423DF3985BB}.Debug|x64.ActiveCfg = Debug|x64
+		{DB530753-E243-4E28-BBA3-E423DF3985BB}.Debug|x64.Build.0 = Debug|x64
+		{DB530753-E243-4E28-BBA3-E423DF3985BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB530753-E243-4E28-BBA3-E423DF3985BB}.Debug|x86.Build.0 = Debug|Win32
+		{DB530753-E243-4E28-BBA3-E423DF3985BB}.Release|x64.ActiveCfg = Release|x64
+		{DB530753-E243-4E28-BBA3-E423DF3985BB}.Release|x64.Build.0 = Release|x64
+		{DB530753-E243-4E28-BBA3-E423DF3985BB}.Release|x86.ActiveCfg = Release|Win32
+		{DB530753-E243-4E28-BBA3-E423DF3985BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067AD655-E9EE-40FD-8053-B703355F5675}
+	EndGlobalSection
+EndGlobal
